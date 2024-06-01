@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - huzaifg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - uwsbel/low-fidelity-dynamic-models
+  - projectchrono/gym-chrono
+  - Huzaifg/gns
+  - Huzaifg/DEM-Engine
+  - Huzaifg/chrono
+  - Huzaifg/Literature-Review
+  - Huzaifg/elastodynamics
+  - uwsbel/sbel-reproducibility
+
+ 
